@@ -1,0 +1,1 @@
+<h1>Sample blade view from lethargiccoder/bobs</h1>

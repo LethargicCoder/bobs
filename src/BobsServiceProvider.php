@@ -14,7 +14,7 @@ class BobsServiceProvider extends ServiceProvider
 
         // Load routes, migrations, and views if applicable
         // $this->loadRoutesFrom(__DIR__.'/../routes/web.php');
-        $this->loadViewsFrom(__DIR__.'/../resources/views', 'bobs');
+        $this->loadViewsFrom(__DIR__.'/../resources/views', 'LethargicCoder/Bobs');
         // $this->loadMigrationsFrom(__DIR__.'/../database/migrations'); 
     }
 
